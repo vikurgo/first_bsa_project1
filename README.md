@@ -34,7 +34,7 @@ You will learn about a typical software development lifecycle, the typical team 
 
 ## Chapter I <div id="chapter-i"></div>
 
-![](misc/images/Illustration_00.jpg)
+![illustration_00](./misc/images/illustration_00.jpg)
 
 ### Preamble <div id="11"></div>
 
@@ -166,7 +166,7 @@ P.S. Coding and placement principles may vary depending on system complexity, su
 
 #### Example: 
 
-![](misc/images/img1_eng.png)
+![img1_eng](./misc/images/img1_eng.png)
 
 ### 5. Decomposition. Main Concepts <div id="35"></div>
 
@@ -211,11 +211,11 @@ Often the diagram shows not only the system to be decomposed, but also the highe
 
 *Figure 1: Breakfast preparation decomposition*
 
-![](misc/images/img2_eng.png)
+![img2_eng](./misc/images/img2_eng.png)
 
 *Figure 2: System 1 decomposition*
 
-![](misc/images/img3_eng.png)
+![img3_eng](./misc/images/img3_eng.png)
 
 ### 6. Decomposition Rules <div id="36"></div>
 
@@ -361,7 +361,7 @@ The first step was to collect orders from stores and caterers in any way possibl
 
 *Figure 3: Breakfast decomposition*
 
-![](misc/images/img4_eng.png)
+![img4_eng](./misc/images/img4_eng.png)
 
 **Conditions:** 
 
