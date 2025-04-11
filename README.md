@@ -1,10 +1,13 @@
 # IT analyst's role and functions in the IT systems development team 
 
-
 Summary:
 You will learn about a typical software development lifecycle, the typical team composition and the main functions of each individual at the lifecycle stages. You will also learn the concept of decomposition and the rules for its application.
 
-💡 [Tap here](https://new.oprosso.net/p/4cb31ec3f47a4596bc758ea1861fb624) **to leave your feedback on the project**. It's anonymous and will help our team make your educational experience better. We recommend completing the survey immediately after the project.
+---
+
+>💡 If this is your very first project, fill out this [form](http://opros.so/kAnXy).
+
+>💡 [Tap here](https://new.oprosso.net/p/4cb31ec3f47a4596bc758ea1861fb624) to leave your feedback on the project. It's anonymous and will help our team make your educational experience better. We recommend completing the survey immediately after the project.
 
 ## Contents
 
