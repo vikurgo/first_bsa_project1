@@ -47,15 +47,15 @@ And in the current project, you'll also look at some of the skills of an IT anal
 
 1. Identifying sources of information.
 
-The information initially specified in the terms of reference is usually insufficient. We must therefore be able to identify additional information quickly.
+   The information initially specified in the terms of reference is usually insufficient. We must therefore be able to identify additional information quickly.
 
 2. Consistency of terms and concepts.
 
-Inaccuracies in the interpretation of terms and concepts can lead to project errors. The use of a project glossary can minimise the likelihood of inaccurate interpretation.
+   Inaccuracies in the interpretation of terms and concepts can lead to project errors. The use of a project glossary can minimise the likelihood of inaccurate interpretation.
 
 3. Decomposition.
 
-One of the fundamental techniques of software design and development of complex IT systems.
+   One of the fundamental techniques of software design and development of complex IT systems.
 
 In this project you will learn how to:
 
