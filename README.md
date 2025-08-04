@@ -65,8 +65,10 @@ In this project you will learn how to:
 
 ### Literature
 
-1. <https://cyberleninka.ru/article/n/printsipy-dekompozitsii-modeli-protsessa/viewer>
-2. <https://docs.microsoft.com/ru-ru/dynamics365/project-operations/prod-pma/work-breakdown-structures>
+1. Wiegers, K. (2013). Software Requirements (3rd ed.). Microsoft Press. ISBN 978-0735679665.
+2. Fitzpatrick, R. (2013). The Mom Test: How to Talk to Customers & Learn If Your Business is a Good Idea When Everyone is Lying to You. Portfolio. ISBN 978-1492180742.
+3. International Institute of Business Analysis. (2015). A guide to the business analysis body of knowledge (BABOK Guide) (Version 3). Toronto, ON: IIBA.
+4. Microsoft. Work breakdown structures overview [Electronic resource]. – Available at: https://learn.microsoft.com/ru-ru/dynamics365/project-operations/prod-pma/work-breakdown-structures (accessed: 29 July 2025). – Free access.
 
 ## Chapter II <div id="chapter-ii"></div>
 
@@ -169,7 +171,7 @@ P.S. Coding and placement principles may vary depending on system complexity, su
 
 #### Example: 
 
-![img1_eng](./misc/images/img1_eng.png)
+![img1_eng](./misc/images/Example.png)
 
 ### 5. Decomposition. Main Concepts <div id="35"></div>
 
@@ -214,11 +216,11 @@ Often the diagram shows not only the system to be decomposed, but also the highe
 
 *Figure 1: Breakfast preparation decomposition*
 
-![img2_eng](./misc/images/img2_eng.png)
+![img2_eng](./misc/images/Figure_1__Breakfast_preparation_decomposition.jpg)
 
 *Figure 2: System 1 decomposition*
 
-![img3_eng](./misc/images/img3_eng.png)
+![img3_eng](./misc/images/Figure_2__System_1_decomposition.jpg)
 
 ### 6. Decomposition Rules <div id="36"></div>
 
@@ -364,7 +366,7 @@ The first step was to collect orders from stores and caterers in any way possibl
 
 *Figure 3: Breakfast decomposition*
 
-![img4_eng](./misc/images/img4_eng.png)
+![img4_eng](./misc/images/School_21_-_Figure_3__Breakfast_decomposition.jpg)
 
 **Conditions:** 
 
