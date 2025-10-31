@@ -322,7 +322,7 @@ The first step was to collect orders from stores and caterers in any way possibl
 2. Find at least 5 sources of information and place them into a directory.
 3. Prioritize the study of sources of information.
 4. Define the necessary directory parameters.
-5. Indicate your answers in the turn-in file ex01\_<product prefix>\_infosources.xlsx. 
+5. Indicate your answers in the turn-in file `ex01_<product prefix>_infosources.xlsx`. 
 
 ### Exercise 02 — Creating and Maintaining a Glossary <div id="53"></div>
 
@@ -330,7 +330,7 @@ The first step was to collect orders from stores and caterers in any way possibl
 
 1. Create a glossary.
 2. Place at least 10 concepts into the glossary.
-3. Indicate your answers in the turn-in file ex02\_<product prefix>\_glossary.xlsx.
+3. Indicate your answers in the turn-in file `ex02_<product prefix>_glossary.xlsx`.
 
 **Recommendations for tasks:**
 
@@ -347,7 +347,7 @@ The first step was to collect orders from stores and caterers in any way possibl
    - What are those levels?
    - What criteria are used to categorize each level?
 6. Determine the order in which the demographic pyramid is constructed.
-7. Indicate your answers in the turn-in file ex03\_decomposition.docx.
+7. Indicate your answers in the turn-in file `ex03_decomposition.docx`.
 
 ### Exercise 04 — Types of Decomposition <div id="55"></div>
 
@@ -362,7 +362,7 @@ The first step was to collect orders from stores and caterers in any way possibl
    - Specify the goal of the decomposition;
    - Build a decomposition to level 2;
    - Specify the breakdown criteria for each level of the constructed decomposition.
-3. Indicate your answers in the turn-in file ex04\_types.docx.
+3. Indicate your answers in the turn-in file `ex04_types.docx`.
 
 *Figure 3: Breakfast decomposition*
 
@@ -383,7 +383,7 @@ The means of representing the decomposition is at your discretion.
 5. Develop an object decomposition of the actors (roles) of the task.
 6. Specify the goal of object decomposition.
 7. Specify the number of levels.
-8. Indicate your answers in the turn-in file ex05\_types.docx.
+8. Indicate your answers in the turn-in file `ex05_types.docx`.
 
 ### Exercise 06 — Decomposition Rules <div id="57"></div>
 
@@ -392,7 +392,7 @@ The means of representing the decomposition is at your discretion.
 1. List at least 10 activities of your day.
 2. Define at least 2 decomposition goals; identify users and needs within each goal.
 3. Build an event decomposition of your day's activities according to the chosen goal. Stick to the rules of decomposition.
-4. Indicate your answers in the turn-in file ex06\_rules.docx.
+4. Indicate your answers in the turn-in file `ex06_rules.docx`.
 
 
 **Recommendations for the task:**
