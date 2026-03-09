@@ -400,3 +400,4 @@ The means of representing the decomposition is at your discretion.
 There's no one right way to do a decomposition. You should always start with the goal, the needs of the user for whom you are creating the decomposition. Choose the type of decomposition based on this goal. Determine the activities based on the answers to the "Questions to Identify the Type of Decomposition". It is possible that the activities will be of different levels — at the stage of listing the activities this is normal. However, as you go on, it is important to look at the activities and rearrange them into levels according to the criteria.
 
 Make sure that the elements at the same level are equivalent, answer the same question and are selected by the same criterion. They belong to that level, not to a higher or lower one. Make several choices and choose the one that best suits your goal, needs and circumstances.
+# first_bsa_project1
